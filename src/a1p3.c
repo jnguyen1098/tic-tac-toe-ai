@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
 
     FILE *fp;
     if (!(fp = fopen("strategyfile", "rb+")))
-        return fprintf(stderr, "Could not open strategyfile\n");
+        return fprintf(stderr, "Could not open strategyfile\n"), 2;
 
     for (int i = 0; i < 19683; i++) {
         char b3[10] = "";
