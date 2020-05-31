@@ -1,6 +1,6 @@
 # Tic Tac Toe AI
 
-It's been two whole years and I still haven't finished Kremer's Tic Tac Toe. On one very bored quarantine day I finally decided to face this ghost, and fuck my head still hurts. I don't know how so many people managed to get this on their first try because I surely didn't (I also tried this assignment right after W19 and still couldn't do it. Until now!!!).
+It's been two whole years and having still not finished Kremer's Tic Tac Toe, I decided to finally liberate this first-year ghost of mine. I don't know how so many people managed to get this on their first try because I surely didn't (I also tried this assignment right after W19 and still couldn't do it. Until now!!!).
 
 With theories from simple backtracking all the way to backpropagational machine learning, people had many different tinfoil hat explanations on what Kremer was making us do under the hood, but these are all misnomers. What he _actually_ did was make us implement a very simple decision-making AI known as the "minimax algorithm" (aka saddle point).
 
